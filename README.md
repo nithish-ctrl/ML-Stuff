@@ -1,5 +1,5 @@
 # ML-Stuff
-Contains Basic Machine Learning Concepts implemented :
+Contains Basic Machine Learning Algorithms implemented :
 
 Linear Regression
 
